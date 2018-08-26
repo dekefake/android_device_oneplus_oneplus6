@@ -261,8 +261,8 @@ PRODUCT_PACKAGES += \
     vndk_package
 
 PRODUCT_PACKAGES += \
-    android.hidl.manager@1.0-java \
-    android.hidl.base@1.0
+    #android.hidl.manager@1.0-java \
+    #android.hidl.base@1.0
     
 
 PRODUCT_PACKAGES += \

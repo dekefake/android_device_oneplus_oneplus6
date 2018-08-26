@@ -18,6 +18,8 @@
 # device-specific aspects (drivers) with a device-agnostic
 # product configuration (apps).
 #
+BOARD_VENDOR := oneplus
+
 BOARD_PATH := device/oneplus/oneplus6
 
 PRODUCT_FULL_TREBLE := true
